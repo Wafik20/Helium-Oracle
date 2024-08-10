@@ -53,7 +53,7 @@ main();
 
 To configure Helium-Oracle, you need to set the following environment variables:
 
-- `RPC_URL`: The RPC URL for the Solana network
+- `RPC_URL`: The RPC URL for the Solana network (Check [Helius](https://www.helius.dev/) to get an RPC endpoint)
 - `IOT_MINT`: The public key for the IoT mint
 - `MOBILE_MINT`: The public key for the Mobile mint
 
