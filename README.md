@@ -10,14 +10,6 @@ Fetch your Helium Hotpot status and rewards without the need for external API or
 - No external API dependencies
 - You only need the hotspot address
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js (v14.0.0 or higher)
-- npm (v6.0.0 or higher)
-- Basic knowledge of JavaScript and Node.js
-
 ## Installation
 
 To install Helium-Oracle, follow these steps:
