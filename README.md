@@ -2,29 +2,13 @@
 
 Fetch your Helium Hotpot status and rewards without the need for external API or complicated AWS data buckets.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Helium-Oracle is a lightweight tool designed to simplify the process of retrieving status and reward information for Helium Hotspots. By leveraging direct interactions with the Helium blockchain and related services, this tool eliminates the need for external APIs or complex data storage solutions.
-
 ## Features
 
 - Fetch real-time hotspot status
 - Retrieve IoT and Mobile network rewards
 - Simple and easy-to-use interface
 - No external API dependencies
-- Minimal setup required
+- You only need the hotspot address
 
 ## Prerequisites
 
